@@ -1,0 +1,13 @@
+
+*{
+    margin: 0;
+    padding: 0;}
+    .contaire{
+        padding:50px ;
+        display:flex ;
+        align-items:center ;
+        width:100% ;
+    }
+  .photo{ 
+        width: 520px;
+    }
